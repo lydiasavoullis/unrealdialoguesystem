@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.InkpotEditor.cpp.obj": [
+			"InkFunctionTests.gen.cpp.obj",
+			"InkpotEditor.init.gen.cpp.obj",
+			"InkpotStoryAssetFactory.gen.cpp.obj",
+			"InkpotStoryAssetActions.cpp.obj",
+			"InkpotStoryAssetFactory.cpp.obj",
+			"InkCompiler.cpp.obj",
+			"InkpotEditorModule.cpp.obj",
+			"InkFunctionTests.cpp.obj",
+			"InkPlusPlusTest.cpp.obj"
+		]
+	}
+}

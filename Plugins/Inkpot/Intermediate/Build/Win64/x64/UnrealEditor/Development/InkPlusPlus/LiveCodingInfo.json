@@ -1,0 +1,41 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.InkPlusPlus.cpp.obj": [
+			"InkPlusPlus.cpp.obj",
+			"CallStack.cpp.obj",
+			"Choice.cpp.obj",
+			"ChoicePoint.cpp.obj",
+			"Container.cpp.obj",
+			"ControlCommand.cpp.obj",
+			"DebugMetadata.cpp.obj",
+			"Divert.cpp.obj",
+			"Flow.cpp.obj",
+			"InkList.cpp.obj",
+			"InkListItem.cpp.obj",
+			"JsonExtension.cpp.obj",
+			"JsonSerialisation.cpp.obj",
+			"ListDefinition.cpp.obj",
+			"ListDefinitionsOrigin.cpp.obj",
+			"NamedContent.cpp.obj",
+			"NativeFunctionCall.cpp.obj",
+			"Object.cpp.obj",
+			"Path.cpp.obj",
+			"Pointer.cpp.obj",
+			"SearchResult.cpp.obj",
+			"SimpleJson.cpp.obj",
+			"SimpleJsonObject.cpp.obj",
+			"StatePatch.cpp.obj",
+			"Story.cpp.obj",
+			"StoryException.cpp.obj",
+			"StoryState.cpp.obj",
+			"Tag.cpp.obj",
+			"Value.cpp.obj",
+			"VariableAssignment.cpp.obj",
+			"VariableReference.cpp.obj",
+			"VariableState.cpp.obj",
+			"InkPlusPlusLog.cpp.obj",
+			"InkPlusPlusUtility.cpp.obj"
+		]
+	}
+}

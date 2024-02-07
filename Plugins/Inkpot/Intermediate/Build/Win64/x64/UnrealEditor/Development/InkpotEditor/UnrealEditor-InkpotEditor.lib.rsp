@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-InkpotEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\savou\OneDrive\Music\Documents\Unreal Projects\InkpotDemo-release\InkpotDemo-release\InkpotDemo\Intermediate\Build\Win64\x64\InkpotDemoEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\savou\OneDrive\Music\Documents\Unreal Projects\InkpotDemo-release\InkpotDemo-release\InkpotDemo\Plugins\Inkpot\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkpotEditor\Module.InkpotEditor.cpp.obj"
+"C:\Users\savou\OneDrive\Music\Documents\Unreal Projects\InkpotDemo-release\InkpotDemo-release\InkpotDemo\Plugins\Inkpot\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkpotEditor\Default.rc2.res"
+/OUT:"C:\Users\savou\OneDrive\Music\Documents\Unreal Projects\InkpotDemo-release\InkpotDemo-release\InkpotDemo\Plugins\Inkpot\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkpotEditor\UnrealEditor-InkpotEditor.lib"
