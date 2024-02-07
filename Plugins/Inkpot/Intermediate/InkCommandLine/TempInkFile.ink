@@ -1,6 +1,6 @@
 VAR currentSpeaker = "No one"
 ~currentSpeaker = "person1"
-Hello 
+Hello {currentSpeaker}
 ~currentSpeaker = "person2"
 How are you?
 ~currentSpeaker = "person1"
