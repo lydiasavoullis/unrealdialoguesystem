@@ -1,9 +1,13 @@
 VAR currentSpeaker = "No one"
-VAR characters = "blue"
-~currentSpeaker = "person1"
+VAR characters = "hajime_angry"
+
+//LIST characters = hajime_angry, hajime_thinking, chiaki_glitch, chiaki_sad
+
+~currentSpeaker = "chiaki"
+~characters = "chiaki_sad"
 Hello, it's me {currentSpeaker}
-~currentSpeaker = "person2"
-~characters = "red"
+~currentSpeaker = "hajime"
+~characters = "hajime_thinking"
 How are you?
 *[good thanks]
 ->good_thanks
@@ -13,23 +17,26 @@ How are you?
 ->no_answer
 
 ==good_thanks==
-~currentSpeaker = "person1"
-~characters = "blue"
+~currentSpeaker = "hajime"
+~characters = "hajime_thinking"
 I'm doing well thank you.
-~currentSpeaker = "person2"
+~currentSpeaker = "chiaki"
+~characters = "chiaki_glitch"
 That's good!
 -> END
 ==not_great==
-~currentSpeaker = "person1"
-~characters = "blue"
+~currentSpeaker = "hajime"
+~characters = "hajime_angry"
 I'm terrible.
-~currentSpeaker = "person2"
+~currentSpeaker = "chiaki"
+~characters = "chiaki_sad"
 That's not good!
 -> END
 ==no_answer==
-~currentSpeaker = "person1"
-~characters = "blue"
+~currentSpeaker = "chiaki"
+~characters = "chiaki_sad"
 ...
-~currentSpeaker = "person2"
+~currentSpeaker = "hajime"
+~characters = "hajime_thinking"
 Why don't you speak!
 -> END
